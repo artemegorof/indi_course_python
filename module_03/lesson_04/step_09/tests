@@ -1,0 +1,346 @@
+Тест 1:
+Входные данные:
+aaaa
+aaaA
+
+Ожидаемый вывод:
+0
+------------------------------
+
+Тест 2:
+Входные данные:
+abs
+Abz
+
+Ожидаемый вывод:
+-1
+------------------------------
+
+Тест 3:
+Входные данные:
+abcdefg
+AbCdEfF
+
+Ожидаемый вывод:
+1
+------------------------------
+
+Тест 4:
+Входные данные:
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 5:
+Входные данные:
+aAaaaAAaAaaAzZsssSsdDfeEaeqZlpP
+AaaaAaaAaaAaZzSSSSsDdFeeAeQZLpp
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 6:
+Входные данные:
+bwuEhEveouaTECagLZiqmUdxEmhRSOzMauJRWLQMppZOumxhAmwuGeDIkvkBLvMXwUoFmpAfDprBcFtEwOULcZWRQhcTbTbX
+HhoDWbcxwiMnCNexOsKsujLiSGcLllXOkRSbnOzThAjnnliLYFFmsYkOfpTxRNEfBsoUHfoLTiqAINRPxWRqrTJhgfkKcDOH
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 7:
+Входные данные:
+kGWUuguKzcvxqKTNpxeDWXpXkrXDvGMFGoXKDfPBZvWSDUyIYBynbKOUonHvmZaKeirUhfmVRKtGhAdBfKMWXDUoqvbfpfHYcg
+cvOULleuIIiYVVxcLZmHVpNGXuEpzcWZZWyMOwIwbpkKPwCfkVbKkUuosvxYCKjqfVmHfJKbdrsAcatPYgrCABaFcoBuOmMfFt
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 8:
+Входные данные:
+AjQhPqSVhwQQjcgCycjKorWBgFCRuQBwgdVuAPSMJAvTyxGVuFHjfJzkKfsmfhFbKqFrFIohSZBbpjgEHebezmVlGLTPSCTMf
+XhxWuSnMmKFrCUOwkTUmvKAfbTbHWzzOTzxJatLLCdlGnHVaBUnxDlsqpvjLHMThOPAFBggVKDyKBrZAmjnjrhHlrnSkyzBja
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 9:
+Входные данные:
+HRfxniwuJCaHOcaOVgjOGHXKrwxrDQxJpppeGDXnTAowyKbCsCQPbchCKeTWOcKbySSYnoaTJDnmRcyGPbfXJyZoPcARHBu
+xkLXvwkvGIWSQaFTznLOctUXNuzzBBOlqvzmVfTSejekTAlwidRrsxkbZTsGGeEWxCXHzqWVuLGoCyrGjKkQoHqduXwYQKC
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 10:
+Входные данные:
+tatuhQPIzjptlzzJpCAPXSRTKZRlwgfoCIsFjJquRoIDyZZYRSPdFUTjjUPhLBBfeEIfLQpygKXRcyQFiQsEtRtLnZErBqW
+tkHUjllbafLUWhVCnvblKjgYIEoHhsjVmrDBmAWbvtkHxDbRFvsXAjHIrujaDbYwOZmacknhZPeCcorbRgHjjgAgoJdjvLo
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 11:
+Входные данные:
+ycLoapxsfsDTHMSfAAPIUpiEhQKUIXUcXEiopMBuuZLHtfPpLmCHwNMNQUwsEXxCEmKHTBSnKhtQhGWUvppUFZUgSpbeChX
+dCZhgVXofkGousCzObxZSJwXcHIaqUDSCPKzXntcVmPxtNcXmVcjsetZYxedmgQzXTZHMvzjoaXCMKsncGciSDqQWIIRlys
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 12:
+Входные данные:
+UG
+ak
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 13:
+Входные данные:
+bHKsZQcxadymGdYJKWMwvryouAqpdvIivcsDvPhnuPM
+bHKsZQcxadymGdYJKWMwvryouAqpdvIivcsDvPhnuPM
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 14:
+Входные данные:
+MGmLjZNbqvqSwMjXTbiRDwPrEYozDH
+qwcpOMOcJSGHZptFFNgymBvxOXbEEZ
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 15:
+Входные данные:
+VyLIobnU
+VyLIobnU
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 16:
+Входные данные:
+rAmjMWFSlZfigJwHaOTfQvaAniLcUMCxRjwnyEQCKSJrTOlNgL
+ntQjLWDgSUdefMrFbCTqvMzKDPzQRxHMvArtOshuYVfOuuLDZM
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 17:
+Входные данные:
+lwR
+lwR
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 18:
+Входные данные:
+oGcmqrmCCtsiuigPXv
+NRfrURvHLmHyHhODwY
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 19:
+Входные данные:
+hNfoZeGPKFltviOclql
+hNfoZeGPKFltviOclql
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 20:
+Входные данные:
+qRDImbXnHUVAynnTfciOhTJcxwUICyCYl
+eTcmeGIfvWWSmKkSGAzZzHdOEsopLyCTH
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 21:
+Входные данные:
+ajFiqmMyQFukhHaBqMIMIUpiACZUgjrSzsJbekLyPrWM
+ajFiqmMyQFukhHaBqMIMIUpiACZUgjrSzsJbekLyPrWM
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 22:
+Входные данные:
+ctUaseqEnAChUiKITrMiAG
+njUnGHdJJSJLOBlQXJbNLZ
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 23:
+Входные данные:
+PivzLbcWRvo
+PivzLbcWRvo
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 24:
+Входные данные:
+XNDcVDUntfnOrwTydBPpKehVbBPZeE
+SvThXRzJtLQMPJAieKGXpQwvIqvaEK
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 25:
+Входные данные:
+oIfiSZrtGCGDsxv
+oIfiSZrtGCGDsxv
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 26:
+Входные данные:
+mrDMmmKnCDSeKCXMZxnRSelWOqqaddeHegZZBcRuBAXGAEI
+QWEfCiHsRJRqTrENyJHWYdqvnWkuXtZqSfcupfZIaaiEPOV
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 27:
+Входные данные:
+vEPcVrCVhiejMUKLlbxR
+vEPcVrCVhiejMUKLlbxR
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 28:
+Входные данные:
+TGDOpFTryqyHrGOGHjmvKnCYOTvtdMDAdGKMtNMBDLbkFkKyJ
+sGkVoEhArHGtMDWuiszDaEnNLLxdXunhvLJxyeaYFHbwXeBce
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
+Тест 29:
+Входные данные:
+kKeHTuMnUhfVx
+kKeHTuMnUhfVx
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 30:
+Входные данные:
+iwGeimOAAnVd
+qTsCXnSYRvqw
+
+
+Ожидаемый вывод:
+-1
+
+------------------------------
+
+Тест 31:
+Входные данные:
+kXWLJBAHFffZffIRAbaenJ
+kXWLJBAHFffZffIRAbaenJ
+
+
+Ожидаемый вывод:
+0
+
+------------------------------
+
+Тест 32:
+Входные данные:
+VaZcxGlmCgDcFHXdszsxlEJQhEoSLuCceWXNpVJtabANUgkpj
+fmIIJxKTEoPnSQpPPsgocVUcJaacsvsIFfsurMhuBGtofQEor
+
+
+Ожидаемый вывод:
+1
+
+------------------------------
+
