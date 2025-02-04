@@ -1,0 +1,164 @@
+Тест 1:
+Входные данные:
+Hello!
+Hi!
+
+Ожидаемый вывод:
+Hello!
+Hi!
+------------------------------
+
+Тест 2:
+Входные данные:
+Привет
+Пока
+
+Ожидаемый вывод:
+Привет
+Пока
+------------------------------
+
+Тест 3:
+Входные данные:
+fnCXwIHsslWmrFDxXAFvobfqLrgRJWoTeCyUzOhRUuCxPxLvoBpecLJlAHovXGpakVVcCMYVrUWAOPUfQP
+zAHKQdjbqnEQbxWdobqIsWJYqnFzFGcNPOjaKzcaXOPTyAfkHhySYprmWPesGqjUlUylcpINgTmypc
+
+
+Ожидаемый вывод:
+fnCXwIHsslWmrFDxXAFvobfqLrgRJWoTeCyUzOhRUuCxPxLvoBpecLJlAHovXGpakVVcCMYVrUWAOPUfQP
+zAHKQdjbqnEQbxWdobqIsWJYqnFzFGcNPOjaKzcaXOPTyAfkHhySYprmWPesGqjUlUylcpINgTmypc
+
+------------------------------
+
+Тест 4:
+Входные данные:
+hOVUxzvKvoUkHtJTazBupv
+YZqoTvLrSBXzIYTjOtCUhaxga
+
+
+Ожидаемый вывод:
+hOVUxzvKvoUkHtJTazBupv
+YZqoTvLrSBXzIYTjOtCUhaxga
+
+------------------------------
+
+Тест 5:
+Входные данные:
+gajHhzwcsLbrOSmprXxmXOmsPsDXTzzYcghGiSabAonyAcyjelNxAOb
+pHvjhLhOHuVJHpIdpbkOgpKN
+
+
+Ожидаемый вывод:
+gajHhzwcsLbrOSmprXxmXOmsPsDXTzzYcghGiSabAonyAcyjelNxAOb
+pHvjhLhOHuVJHpIdpbkOgpKN
+
+------------------------------
+
+Тест 6:
+Входные данные:
+OeyoupshABdDRj
+JiqeVdWdYBIYqOAozbuzhlodOOTRhtudYKioRFOjRxwbFaOEdTNyRCAbxCVmHTocADWxQeMmgQagKZCetORrQuBNHW
+
+
+Ожидаемый вывод:
+OeyoupshABdDRj
+JiqeVdWdYBIYqOAozbuzhlodOOTRhtudYKioRFOjRxwbFaOEdTNyRCAbxCVmHTocADWxQeMmgQagKZCetORrQuBNHW
+
+------------------------------
+
+Тест 7:
+Входные данные:
+MLYsGanucDwKhqCovDPsyY
+htJFmBsIRfkYCkJwyEzBL
+
+
+Ожидаемый вывод:
+MLYsGanucDwKhqCovDPsyY
+htJFmBsIRfkYCkJwyEzBL
+
+------------------------------
+
+Тест 8:
+Входные данные:
+KFMaGhTVETMad
+UCsSZwIDIothTUZnhcUrzZOosL
+
+
+Ожидаемый вывод:
+KFMaGhTVETMad
+UCsSZwIDIothTUZnhcUrzZOosL
+
+------------------------------
+
+Тест 9:
+Входные данные:
+efqZqTbiJiUHuSn
+ANMxkLjq
+
+
+Ожидаемый вывод:
+efqZqTbiJiUHuSn
+ANMxkLjq
+
+------------------------------
+
+Тест 10:
+Входные данные:
+gJOmfrgQYODSXLrDYHwwvRNhxwUkaxnmCEjAplPseOJSfxGraPjXaNlL
+vYCSvAQQXbjmrvyVDLJakOTfGacVw
+
+
+Ожидаемый вывод:
+gJOmfrgQYODSXLrDYHwwvRNhxwUkaxnmCEjAplPseOJSfxGraPjXaNlL
+vYCSvAQQXbjmrvyVDLJakOTfGacVw
+
+------------------------------
+
+Тест 11:
+Входные данные:
+brjVfdIsmhYgiXjNyXAvtuhHfrxAlOTYeeVAVKBThaIaHYrVUSbxAPZQoOBrLjpZCbpdWN
+JjjrOafrTHDcbPUKUrHtQIemHdThdCMuXlzgWXhgZrDcLgTKqmluCneqILA
+
+
+Ожидаемый вывод:
+brjVfdIsmhYgiXjNyXAvtuhHfrxAlOTYeeVAVKBThaIaHYrVUSbxAPZQoOBrLjpZCbpdWN
+JjjrOafrTHDcbPUKUrHtQIemHdThdCMuXlzgWXhgZrDcLgTKqmluCneqILA
+
+------------------------------
+
+Тест 12:
+Входные данные:
+CRMTcNqPaWP
+ExDlcJNyxuKQtfOnOsMWopQQBYMrkqSmGykrQBourudHlXmHdZtIYAQiVSeucMFjOIrKOApyAIZnLXpOzKsHkGlLJXwTzrDktmnj
+
+
+Ожидаемый вывод:
+CRMTcNqPaWP
+ExDlcJNyxuKQtfOnOsMWopQQBYMrkqSmGykrQBourudHlXmHdZtIYAQiVSeucMFjOIrKOApyAIZnLXpOzKsHkGlLJXwTzrDktmnj
+
+------------------------------
+
+Тест 13:
+Входные данные:
+zxHExJuwUpvuylCFHtJJSPycidRbkFxeBfstgBseGsslvLLNABKdOPckpvDtrVkVTzEKlyFCGnoVvkzzNAelCISMfvwNzSRY
+ChGeUi
+
+
+Ожидаемый вывод:
+zxHExJuwUpvuylCFHtJJSPycidRbkFxeBfstgBseGsslvLLNABKdOPckpvDtrVkVTzEKlyFCGnoVvkzzNAelCISMfvwNzSRY
+ChGeUi
+
+------------------------------
+
+Тест 14:
+Входные данные:
+rVrHlvxBxNroAPeLdiuTOGhpBHRSmjjuXmgQxISeaBxrNCsqbil
+nAtEpNYhRkZuulaLwfdvZaERnqkshYUceicXNtMiyLjOvqSNzsisJqjdwopdfYzvAXcoFxrDEMhQeibsWxhtMOA
+
+
+Ожидаемый вывод:
+rVrHlvxBxNroAPeLdiuTOGhpBHRSmjjuXmgQxISeaBxrNCsqbil
+nAtEpNYhRkZuulaLwfdvZaERnqkshYUceicXNtMiyLjOvqSNzsisJqjdwopdfYzvAXcoFxrDEMhQeibsWxhtMOA
+
+------------------------------
+

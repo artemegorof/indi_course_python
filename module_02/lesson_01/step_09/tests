@@ -1,0 +1,82 @@
+Тест 1:
+Входные данные:
+Привет!
+Артем
+Как дела?
+
+Ожидаемый вывод:
+Как дела?
+Артем
+Привет!
+------------------------------
+
+Тест 2:
+Входные данные:
+HYjCpdsvhA
+YZotrhYeaoQltaYvWDeEqNuIzeifRpytmTfLodShrR
+dhMpyGMjitHQksDZZj
+
+
+Ожидаемый вывод:
+dhMpyGMjitHQksDZZj
+YZotrhYeaoQltaYvWDeEqNuIzeifRpytmTfLodShrR
+HYjCpdsvhA
+
+------------------------------
+
+Тест 3:
+Входные данные:
+wZEAxAUA
+ejiauHh
+oHGKcREbZoKSvngaJMQnbQFAYZpP
+
+
+Ожидаемый вывод:
+oHGKcREbZoKSvngaJMQnbQFAYZpP
+ejiauHh
+wZEAxAUA
+
+------------------------------
+
+Тест 4:
+Входные данные:
+nufdnEAcPbpB
+sHDwwWlsFhlpSlMWSWTySKpfzfs
+BHPLUfKbEkNcbSRZuNgRItjvEVoqXjFTpqDUIOVDGFe
+
+
+Ожидаемый вывод:
+BHPLUfKbEkNcbSRZuNgRItjvEVoqXjFTpqDUIOVDGFe
+sHDwwWlsFhlpSlMWSWTySKpfzfs
+nufdnEAcPbpB
+
+------------------------------
+
+Тест 5:
+Входные данные:
+mLgjBxVzOUSTFV
+iQmqypXBUfZhwnLZnBLlupRfvLXxLNFjLhukXzTJ
+aJAEjXkniu
+
+
+Ожидаемый вывод:
+aJAEjXkniu
+iQmqypXBUfZhwnLZnBLlupRfvLXxLNFjLhukXzTJ
+mLgjBxVzOUSTFV
+
+------------------------------
+
+Тест 6:
+Входные данные:
+vYESbmzkcltmjqAjf
+nhPMUMEwRzmmfqnUVOEjVbvMWgcKPZs
+JtkFnZUarVnVUEnyVVHF
+
+
+Ожидаемый вывод:
+JtkFnZUarVnVUEnyVVHF
+nhPMUMEwRzmmfqnUVOEjVbvMWgcKPZs
+vYESbmzkcltmjqAjf
+
+------------------------------
+

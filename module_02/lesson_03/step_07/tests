@@ -1,0 +1,136 @@
+Тест 1:
+Входные данные:
+Zemfira
+
+Ожидаемый вывод:
+Z
+------------------------------
+
+Тест 2:
+Входные данные:
+It
+
+Ожидаемый вывод:
+I
+------------------------------
+
+Тест 3:
+Входные данные:
+uAYtKdgjomDuzqNSFcIxFoQsGnihBHARQVGEtVacHFDfzXDrBkbrURVBIbs
+
+
+Ожидаемый вывод:
+u
+
+------------------------------
+
+Тест 4:
+Входные данные:
+xmFJRRXBaXOlcKUaEwTLNFXPveeDcpGjsiVbKJTOqiBDay
+
+
+Ожидаемый вывод:
+x
+
+------------------------------
+
+Тест 5:
+Входные данные:
+pLzx
+
+
+Ожидаемый вывод:
+p
+
+------------------------------
+
+Тест 6:
+Входные данные:
+EFm
+
+
+Ожидаемый вывод:
+E
+
+------------------------------
+
+Тест 7:
+Входные данные:
+PxowQAIEtXWeAI
+
+
+Ожидаемый вывод:
+P
+
+------------------------------
+
+Тест 8:
+Входные данные:
+DuJtpAWLbkcGhMTZTywJNsfhRXRZDApWrCtRnMsSvPxZhhLmzS
+
+
+Ожидаемый вывод:
+D
+
+------------------------------
+
+Тест 9:
+Входные данные:
+XXzpSppQNjsoQxOswXbcEZRSMhIDYtDPTlIpflLAOerYBoDBdkjBzWuFjXUNrgksAK
+
+
+Ожидаемый вывод:
+X
+
+------------------------------
+
+Тест 10:
+Входные данные:
+kCSFcpyxfdBNoGgRgVHqbeogODDsRiIlqCgsDWsM
+
+
+Ожидаемый вывод:
+k
+
+------------------------------
+
+Тест 11:
+Входные данные:
+HqFpAYNIXcpZdacEsZJfODcLSJmOwtvarWuwTdQOLQflQLfjFKwy
+
+
+Ожидаемый вывод:
+H
+
+------------------------------
+
+Тест 12:
+Входные данные:
+XyyMLyHQCUeZxxvdaRzkxhdBvaam
+
+
+Ожидаемый вывод:
+X
+
+------------------------------
+
+Тест 13:
+Входные данные:
+cpSemWPhMwbXQzMpHCcijBgxGRkCzJmZeXClESjQLszvLVJOZvuOiukAXTWyUPCGyJcKmcoZKIrsufpLzbuQ
+
+
+Ожидаемый вывод:
+c
+
+------------------------------
+
+Тест 14:
+Входные данные:
+AFquxsEpTITAwYltJvKGPZehlTxmuTFoJeUjuLmjdpsPlDCNdvYmDXNXoyDjUnX
+
+
+Ожидаемый вывод:
+A
+
+------------------------------
+
