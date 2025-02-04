@@ -1,0 +1,136 @@
+Тест 1:
+Входные данные:
+what's up?
+
+Ожидаемый вывод:
+hat's up?
+------------------------------
+
+Тест 2:
+Входные данные:
+i love zoo
+
+Ожидаемый вывод:
+i love oo
+------------------------------
+
+Тест 3:
+Входные данные:
+ebvwvmcgheykwzhkksyiucevujowzopmnxkfrrjjluppbpjy
+
+
+Ожидаемый вывод:
+ebvvmcgheykhkksyiucevujoopmnxkfrrjjluppbpjy
+
+------------------------------
+
+Тест 4:
+Входные данные:
+jxdqswsbycdezjgohcyroz
+
+
+Ожидаемый вывод:
+jxdqssbycdejgohcyro
+
+------------------------------
+
+Тест 5:
+Входные данные:
+zpmozlhwfvepv
+
+
+Ожидаемый вывод:
+pmolhfvepv
+
+------------------------------
+
+Тест 6:
+Входные данные:
+dhxkhnrmvcaraifznipukqkjbtzwbdkioqiq
+
+
+Ожидаемый вывод:
+dhxkhnrmvcaraifnipukqkjbtbdkioqiq
+
+------------------------------
+
+Тест 7:
+Входные данные:
+qnaqojxrkjkcdjucgnclczirpoajitizm
+
+
+Ожидаемый вывод:
+qnaqojxrkjkcdjucgnclcirpoajitim
+
+------------------------------
+
+Тест 8:
+Входные данные:
+qhssipwtrvxptgpnrbotduuoaucc
+
+
+Ожидаемый вывод:
+qhssiptrvxptgpnrbotduuoaucc
+
+------------------------------
+
+Тест 9:
+Входные данные:
+amipxwictupfrwopyxb
+
+
+Ожидаемый вывод:
+amipxictupfropyxb
+
+------------------------------
+
+Тест 10:
+Входные данные:
+wptiyfwkfgkydtvirwgdsuhfhlqcwbmrmy
+
+
+Ожидаемый вывод:
+ptiyfkfgkydtvirgdsuhfhlqcbmrmy
+
+------------------------------
+
+Тест 11:
+Входные данные:
+xwexkvhycy
+
+
+Ожидаемый вывод:
+xexkvhycy
+
+------------------------------
+
+Тест 12:
+Входные данные:
+rqvmnytdis
+
+
+Ожидаемый вывод:
+rqvmnytdis
+
+------------------------------
+
+Тест 13:
+Входные данные:
+vnlfhbqhconmtdokskmozgjllpxdimfrmecixrjrnjiybvwdgv
+
+
+Ожидаемый вывод:
+vnlfhbqhconmtdokskmogjllpxdimfrmecixrjrnjiybvdgv
+
+------------------------------
+
+Тест 14:
+Входные данные:
+yneenjikemlrwyjcowvvjnpiijxncdmoqtsz
+
+
+Ожидаемый вывод:
+yneenjikemlryjcovvjnpiijxncdmoqts
+
+------------------------------
+

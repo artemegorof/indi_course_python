@@ -1,0 +1,24 @@
+Тест 1:
+Входные данные:
+Every You Every Me
+
+Ожидаемый вывод:
+eVERY yOU eVERY mE
+------------------------------
+
+Тест 2:
+Входные данные:
+RunnING up That HILL
+
+Ожидаемый вывод:
+rUNNING uP tHAT hILL
+------------------------------
+
+Тест 3:
+Входные данные:
+Sleeping with GHOSTS
+
+Ожидаемый вывод:
+sLEEPING wITH gHOSTS
+------------------------------
+

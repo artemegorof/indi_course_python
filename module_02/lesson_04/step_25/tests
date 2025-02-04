@@ -1,0 +1,136 @@
+Тест 1:
+Входные данные:
+Smells Like Teen Spirit
+
+Ожидаемый вывод:
+Smells,Like,Teen,Spirit
+------------------------------
+
+Тест 2:
+Входные данные:
+a million little pieces
+
+Ожидаемый вывод:
+a,million,little,pieces
+------------------------------
+
+Тест 3:
+Входные данные:
+
+
+
+Ожидаемый вывод:
+
+
+------------------------------
+
+Тест 4:
+Входные данные:
+pAgUdvzjPzWfsujKCRAUXziFu
+
+
+Ожидаемый вывод:
+pAgUdvzjPzWfsujKCRAUXziFu
+
+------------------------------
+
+Тест 5:
+Входные данные:
+w
+
+
+Ожидаемый вывод:
+w
+
+------------------------------
+
+Тест 6:
+Входные данные:
+FAeDUkcmtzrEEAHVLgGkhMxcGkaoDGmUiDhxDrWFaDNPNeOzRxVyDvrCpGFHgyKvPoFWJcNZkCloWPXLfYzdANnfbzCMAeAHdTAV
+
+
+Ожидаемый вывод:
+FAeDUkcmtzrEEAHVLgGkhMxcGkaoDGmUiDhxDrWFaDNPNeOzRxVyDvrCpGFHgyKvPoFWJcNZkCloWPXLfYzdANnfbzCMAeAHdTAV
+
+------------------------------
+
+Тест 7:
+Входные данные:
+qPtPFXRdvOjSASTI
+
+
+Ожидаемый вывод:
+qPtPFXRdvOjSASTI
+
+------------------------------
+
+Тест 8:
+Входные данные:
+EETF
+
+
+Ожидаемый вывод:
+EETF
+
+------------------------------
+
+Тест 9:
+Входные данные:
+rjRaIIZZudZUUpCq
+
+
+Ожидаемый вывод:
+rjRaIIZZudZUUpCq
+
+------------------------------
+
+Тест 10:
+Входные данные:
+
+
+
+Ожидаемый вывод:
+
+
+------------------------------
+
+Тест 11:
+Входные данные:
+eAheqVHnRghIcGKKNCXqepXEsolUffdasybjLKrIIkDBSpLHpPyixMRIFQolWHrQaXfCpGBzRigBiGsHpOubJjCEPgCjZFXZnPLA
+
+
+Ожидаемый вывод:
+eAheqVHnRghIcGKKNCXqepXEsolUffdasybjLKrIIkDBSpLHpPyixMRIFQolWHrQaXfCpGBzRigBiGsHpOubJjCEPgCjZFXZnPLA
+
+------------------------------
+
+Тест 12:
+Входные данные:
+pEhXmEEFcQlCUjMkAfEMwvLeHQDJRduHWEgADzVyZvZyRUnwLmJZWtHsbWVXFZJK
+
+
+Ожидаемый вывод:
+pEhXmEEFcQlCUjMkAfEMwvLeHQDJRduHWEgADzVyZvZyRUnwLmJZWtHsbWVXFZJK
+
+------------------------------
+
+Тест 13:
+Входные данные:
+zbHt
+
+
+Ожидаемый вывод:
+zbHt
+
+------------------------------
+
+Тест 14:
+Входные данные:
+kvJaGuHenppTKbiSqLXVlSxJfCbZHSAVtZbzVsYjgHNgQPXqcxNqelbkjbdTupWZ
+
+
+Ожидаемый вывод:
+kvJaGuHenppTKbiSqLXVlSxJfCbZHSAVtZbzVsYjgHNgQPXqcxNqelbkjbdTupWZ
+
+------------------------------
+

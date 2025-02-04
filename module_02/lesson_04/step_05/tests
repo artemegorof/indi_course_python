@@ -1,0 +1,68 @@
+Тест 1:
+Входные данные:
+TheRe is NO spOOn
+
+Ожидаемый вывод:
+there is no spoon
+------------------------------
+
+Тест 2:
+Входные данные:
+LryYdHSJpfSjkwKTvZysIGVqsswRwtUjQVwnyccDfCejaRxFn
+
+
+Ожидаемый вывод:
+lryydhsjpfsjkwktvzysigvqsswrwtujqvwnyccdfcejarxfn
+
+------------------------------
+
+Тест 3:
+Входные данные:
+AFOAAJAfCpoAfMdgQUhwwOVvUXQuNU
+
+
+Ожидаемый вывод:
+afoaajafcpoafmdgquhwwovvuxqunu
+
+------------------------------
+
+Тест 4:
+Входные данные:
+LAVPMzjaJPEZmLVRXOcChsqNIsPNuszPVolDwNbTnYwaCyg
+
+
+Ожидаемый вывод:
+lavpmzjajpezmlvrxocchsqnispnuszpvoldwnbtnywacyg
+
+------------------------------
+
+Тест 5:
+Входные данные:
+pVnYGBtAvFRBTepcBNIalYldfjuqwjzxhOXwruSJ
+
+
+Ожидаемый вывод:
+pvnygbtavfrbtepcbnialyldfjuqwjzxhoxwrusj
+
+------------------------------
+
+Тест 6:
+Входные данные:
+zRMhVeZSmkZwmsSPZZmYhtKvGhDdBwyunclzT
+
+
+Ожидаемый вывод:
+zrmhvezsmkzwmsspzzmyhtkvghddbwyunclzt
+
+------------------------------
+
+Тест 7:
+Входные данные:
+OgwTvttlvfU
+
+
+Ожидаемый вывод:
+ogwtvttlvfu
+
+------------------------------
+

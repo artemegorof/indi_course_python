@@ -1,0 +1,58 @@
+Тест 1:
+Входные данные:
+ManY mUcH
+
+Ожидаемый вывод:
+MANY MUCH
+------------------------------
+
+Тест 2:
+Входные данные:
+JzWaOBeVxTFVBektNNEarCU
+
+
+Ожидаемый вывод:
+JZWAOBEVXTFVBEKTNNEARCU
+
+------------------------------
+
+Тест 3:
+Входные данные:
+CSVhthTjWlYsUcJkkkjN
+
+
+Ожидаемый вывод:
+CSVHTHTJWLYSUCJKKKJN
+
+------------------------------
+
+Тест 4:
+Входные данные:
+bcsuAMBFEvdxQpVPBAXNpfZPSssjSsJIWfoKssqGgjxdzvwCR
+
+
+Ожидаемый вывод:
+BCSUAMBFEVDXQPVPBAXNPFZPSSSJSSJIWFOKSSQGGJXDZVWCR
+
+------------------------------
+
+Тест 5:
+Входные данные:
+bVRqfbYLVLvOnMLHPgehQImuduknmjvIdW
+
+
+Ожидаемый вывод:
+BVRQFBYLVLVONMLHPGEHQIMUDUKNMJVIDW
+
+------------------------------
+
+Тест 6:
+Входные данные:
+xoVOtUdfEGbWchNocj
+
+
+Ожидаемый вывод:
+XOVOTUDFEGBWCHNOCJ
+
+------------------------------
+
