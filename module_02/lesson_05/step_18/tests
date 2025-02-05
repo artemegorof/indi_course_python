@@ -1,0 +1,61 @@
+Тест 1:
+Входные данные:
+translate russian to english
+translate
+english
+
+Ожидаемый вывод:
+True
+
+------------------------------
+
+Тест 2:
+Входные данные:
+translate russian to english
+translate
+SH
+
+Ожидаемый вывод:
+False
+------------------------------
+
+Тест 3:
+Входные данные:
+TRanSlate russian to english
+TRa
+lish
+
+Ожидаемый вывод:
+True
+------------------------------
+
+Тест 4:
+Входные данные:
+TRanSlate russian to EngLisH
+TRanS
+ngLisH
+
+Ожидаемый вывод:
+True
+------------------------------
+
+Тест 5:
+Входные данные:
+TRanSlate russian to EngLisH
+TRanSu
+EngLisH
+
+Ожидаемый вывод:
+False
+------------------------------
+
+Тест 6:
+Входные данные:
+TRanSlate russian to EngLisH
+Q
+E
+
+Ожидаемый вывод:
+False
+------------------------------
+
