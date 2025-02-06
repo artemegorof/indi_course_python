@@ -1,0 +1,100 @@
+Тест 1:
+Входные данные:
+4
+word
+civilization
+internationalization
+pneumonoultramicroscopicsilicovolcanoconiosis
+
+Ожидаемый вывод:
+word
+c10n
+i18n
+p43s
+------------------------------
+
+Тест 2:
+Входные данные:
+10
+gyartjdxxlcl
+fzsck
+uidwu
+xbymclornemdmtj
+ilppyoapitawgje
+cibzc
+drgbeu
+hezplmsdekhhbo
+feuzlrimbqbytdu
+kgdco
+
+Ожидаемый вывод:
+g10l
+fzsck
+uidwu
+x13j
+i13e
+cibzc
+drgbeu
+h12o
+f13u
+kgdco
+------------------------------
+
+Тест 3:
+Входные данные:
+2
+a
+b
+
+Ожидаемый вывод:
+a
+b
+------------------------------
+
+Тест 4:
+Входные данные:
+20
+lkpmx
+kovxmxorlgwaomlswjxlpnbvltfv
+hykasjxqyjrmybejnmeumzha
+tuevlumpqbbhbww
+qgqsphvrmupxxc
+trissbaf
+qfgrlinkzvzqdryckaizutd
+zzqtoaxkvwoscyx
+oswytrlnhpjvvnwookx
+lpuzqgec
+gyzqfwxggtvpjhzmzmdw
+rlxjgmvdftvrmvbdwudra
+vsntnjpepnvdaxiporggmglhagv
+xlvcqkqgcrbgtgglj
+lyxwxbiszyhlsrgzeedzprbmcpduvq
+yrmqqvrkqskqukzqrwukpsifgtdc
+xpuohcsjhhuhvr
+vvlfrlxpvqejngwrbfbpmqeirxlw
+svmasocxdvadmaxtrpakysmeaympy
+yuflqboqfdt
+
+Ожидаемый вывод:
+lkpmx
+k26v
+h22a
+t13w
+q12c
+trissbaf
+q21d
+z13x
+o17x
+lpuzqgec
+g18w
+r19a
+v25v
+x15j
+l28q
+y26c
+x12r
+v26w
+s27y
+y9t
+------------------------------
+

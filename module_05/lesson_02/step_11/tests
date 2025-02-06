@@ -1,0 +1,39 @@
+Тест 1:
+Входные данные:
+I am not smarter than the president
+3
+
+Ожидаемый вывод:
+I am not smarter than the president
+I am not smarter than the president
+I am not smarter than the president
+------------------------------
+
+Тест 2:
+Входные данные:
+funny noises are not funny
+2
+
+Ожидаемый вывод:
+funny noises are not funny
+funny noises are not funny
+------------------------------
+
+Тест 3:
+Входные данные:
+I WILL NEVER WINN A EMMY
+10
+
+Ожидаемый вывод:
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+I WILL NEVER WINN A EMMY
+------------------------------
+
