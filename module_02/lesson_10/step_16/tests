@@ -1,0 +1,31 @@
+Тест 1:
+Входные данные:
+56.77
+11
+
+Ожидаемый вывод:
+Current dollar rate is 56.77. You want to buy 11 dollars
+You must pay 624.47
+
+------------------------------
+
+Тест 2:
+Входные данные:
+77.25
+75
+
+Ожидаемый вывод:
+Current dollar rate is 77.25. You want to buy 75 dollars
+You must pay 5793.75
+------------------------------
+
+Тест 3:
+Входные данные:
+60.5
+100
+
+Ожидаемый вывод:
+Current dollar rate is 60.5. You want to buy 100 dollars
+You must pay 6050.0
+------------------------------
+
