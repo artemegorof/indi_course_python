@@ -1,0 +1,83 @@
+Тест 1:
+Входные данные:
+repeat_please_n_times(5)
+
+
+Ожидаемый вывод:
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+------------------------------
+
+Тест 2:
+Входные данные:
+repeat_please_n_times(3)
+
+Ожидаемый вывод:
+Just do it
+Just do it
+Just do it
+------------------------------
+
+Тест 3:
+Входные данные:
+repeat_please_n_times(10)
+
+Ожидаемый вывод:
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+------------------------------
+
+Тест 4:
+Входные данные:
+repeat_please_n_times(15)
+
+Ожидаемый вывод:
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+------------------------------
+
+Тест 5:
+Входные данные:
+
+
+Ожидаемый вывод:
+
+
+
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+Just do it
+------------------------------
+
