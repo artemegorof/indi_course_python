@@ -1,0 +1,117 @@
+Тест 1:
+Входные данные:
+3
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC']
+------------------------------
+
+Тест 2:
+Входные данные:
+5
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE']
+------------------------------
+
+Тест 3:
+Входные данные:
+9
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII']
+------------------------------
+
+Тест 4:
+Входные данные:
+13
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL', 'MMMMMMMMMMMMM']
+------------------------------
+
+Тест 5:
+Входные данные:
+25
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL', 'MMMMMMMMMMMMM', 'NNNNNNNNNNNNNN', 'OOOOOOOOOOOOOOO', 'PPPPPPPPPPPPPPPP', 'QQQQQQQQQQQQQQQQQ', 'RRRRRRRRRRRRRRRRRR', 'SSSSSSSSSSSSSSSSSSS', 'TTTTTTTTTTTTTTTTTTTT', 'UUUUUUUUUUUUUUUUUUUUU', 'VVVVVVVVVVVVVVVVVVVVVV', 'WWWWWWWWWWWWWWWWWWWWWWW', 'XXXXXXXXXXXXXXXXXXXXXXXX', 'YYYYYYYYYYYYYYYYYYYYYYYYY']
+------------------------------
+
+Тест 6:
+Входные данные:
+23
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL', 'MMMMMMMMMMMMM', 'NNNNNNNNNNNNNN', 'OOOOOOOOOOOOOOO', 'PPPPPPPPPPPPPPPP', 'QQQQQQQQQQQQQQQQQ', 'RRRRRRRRRRRRRRRRRR', 'SSSSSSSSSSSSSSSSSSS', 'TTTTTTTTTTTTTTTTTTTT', 'UUUUUUUUUUUUUUUUUUUUU', 'VVVVVVVVVVVVVVVVVVVVVV', 'WWWWWWWWWWWWWWWWWWWWWWW']
+------------------------------
+
+Тест 7:
+Входные данные:
+18
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL', 'MMMMMMMMMMMMM', 'NNNNNNNNNNNNNN', 'OOOOOOOOOOOOOOO', 'PPPPPPPPPPPPPPPP', 'QQQQQQQQQQQQQQQQQ', 'RRRRRRRRRRRRRRRRRR']
+------------------------------
+
+Тест 8:
+Входные данные:
+16
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL', 'MMMMMMMMMMMMM', 'NNNNNNNNNNNNNN', 'OOOOOOOOOOOOOOO', 'PPPPPPPPPPPPPPPP']
+------------------------------
+
+Тест 9:
+Входные данные:
+13
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL', 'MMMMMMMMMMMMM']
+------------------------------
+
+Тест 10:
+Входные данные:
+18
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL', 'MMMMMMMMMMMMM', 'NNNNNNNNNNNNNN', 'OOOOOOOOOOOOOOO', 'PPPPPPPPPPPPPPPP', 'QQQQQQQQQQQQQQQQQ', 'RRRRRRRRRRRRRRRRRR']
+------------------------------
+
+Тест 11:
+Входные данные:
+8
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH']
+------------------------------
+
+Тест 12:
+Входные данные:
+12
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ', 'KKKKKKKKKKK', 'LLLLLLLLLLLL']
+------------------------------
+
+Тест 13:
+Входные данные:
+10
+
+
+Ожидаемый вывод:
+['A', 'BB', 'CCC', 'DDDD', 'EEEEE', 'FFFFFF', 'GGGGGGG', 'HHHHHHHH', 'IIIIIIIII', 'JJJJJJJJJJ']
+------------------------------
+
