@@ -1,0 +1,36 @@
+Тест 1:
+Входные данные:
+a
+Mary had a little lamb.
+
+Ожидаемый вывод:
+Mary
+had
+a
+lamb.
+
+------------------------------
+
+Тест 2:
+Входные данные:
+e
+Actions speak louder than words
+
+Ожидаемый вывод:
+speak
+louder
+
+------------------------------
+
+Тест 3:
+Входные данные:
+s
+Diane visited her friends who live in San Francisco
+
+Ожидаемый вывод:
+visited
+friends
+San
+Francisco
+------------------------------
+

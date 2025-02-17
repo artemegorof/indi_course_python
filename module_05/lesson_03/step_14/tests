@@ -1,0 +1,87 @@
+Тест 1:
+Входные данные:
+words = ["apple", "banana", "cherry", "strawberry", "kiwi", "mango", "blueberry"]
+
+Ожидаемый вывод:
+strawberry
+blueberry
+------------------------------
+
+Тест 2:
+Входные данные:
+words = ["cat", "elephant", "giraffe", "dog", "zebra", "hippopotamus", "antelope"]
+
+Ожидаемый вывод:
+elephant
+giraffe
+hippopotamus
+antelope
+------------------------------
+
+Тест 3:
+Входные данные:
+words = ["universe", "exploration", "galaxies", "satellite", "telescope"]
+
+Ожидаемый вывод:
+universe
+exploration
+galaxies
+satellite
+telescope
+------------------------------
+
+Тест 4:
+Входные данные:
+words = [
+    'require', 'build', 'head', 'land', 'dark', 'seat',
+    'have', 'five', 'particularly', 'focus', 'moment',
+    'visit', 'past', 'turn', 'bad', 'modern', 'once',
+    'future', 'pay', 'assume', 'himself', 'physical', 'chance',
+    'remember', 'better', 'former', 'believe', 'explain',
+    'reduce', 'whatever', 'theory', 'during', 'enough',
+    'wall', 'commercial', 'challenge', 'tell', 'actually',
+    'include', 'somebody', 'decade', 'by', 'better',
+    'would', 'five', 'cost', 'kitchen', 'our', 'affect',
+    'board', 'practice', 'full', 'instead', 'apply', 'good',
+    'past', 'clearly', 'special', 'both', 'analysis', 'peace',
+    'truth', 'cultural', 'light', 'answer', 'build',
+    'each', 'watch', 'buy', 'theory', 'pretty', 'expect',
+    'account', 'music', 'sell', 'newspaper', 'reach',
+    'fish', 'tax', 'employee', 'start', 'most', 'during',
+    'citizen', 'develop', 'carry', 'only', 'certainly',
+    'rock', 'economy', 'risk', 'later', 'one', 'body',
+    'star', 'they', 'choice', 'appear', 'return', 'sometimes'
+]
+
+Ожидаемый вывод:
+require
+particularly
+himself
+physical
+remember
+believe
+explain
+whatever
+commercial
+challenge
+actually
+include
+somebody
+kitchen
+practice
+instead
+clearly
+special
+analysis
+cultural
+account
+newspaper
+employee
+citizen
+develop
+certainly
+economy
+sometimes
+
+------------------------------
+
