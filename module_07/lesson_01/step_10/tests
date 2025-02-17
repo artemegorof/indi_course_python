@@ -1,0 +1,48 @@
+Тест 1:
+Входные данные:
+keanu_reeves()
+
+Ожидаемый вывод:
+YOU'RE BREATHTAKING
+------------------------------
+
+Тест 2:
+Входные данные:
+keanu_reeves()
+keanu_reeves()
+
+Ожидаемый вывод:
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+------------------------------
+
+Тест 3:
+Входные данные:
+keanu_reeves()
+keanu_reeves()
+keanu_reeves()
+
+Ожидаемый вывод:
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+------------------------------
+
+Тест 4:
+Входные данные:
+for i in range(10):
+    keanu_reeves()
+
+Ожидаемый вывод:
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+YOU'RE BREATHTAKING
+------------------------------
+
