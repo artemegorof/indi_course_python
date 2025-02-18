@@ -1,0 +1,72 @@
+Тест 1:
+Входные данные:
+4
+product Apple
+price 10
+product Banana
+availability
+
+Ожидаемый вывод:
+{'product': 'Banana', 'price': '10', 'availability': None}
+------------------------------
+
+Тест 2:
+Входные данные:
+5
+name John
+age 25
+city New York
+country
+age 30
+
+Ожидаемый вывод:
+{'name': 'John', 'age': '30', 'city': 'New York', 'country': None}
+------------------------------
+
+Тест 3:
+Входные данные:
+6
+user_id 123
+name Alice
+email alice@example.com
+phone
+user_id 456
+status active
+
+Ожидаемый вывод:
+{'user_id': '456', 'name': 'Alice', 'email': 'alice@example.com', 'phone': None, 'status': 'active'}
+------------------------------
+
+Тест 4:
+Входные данные:
+2
+key1 value1
+key1 value2
+
+Ожидаемый вывод:
+{'key1': 'value2'}
+------------------------------
+
+Тест 5:
+Входные данные:
+4
+x
+y 50
+x 30
+z
+
+Ожидаемый вывод:
+{'x': '30', 'y': '50', 'z': None}
+------------------------------
+
+Тест 6:
+Входные данные:
+3
+task_id 101
+description Fix login bug
+status
+
+Ожидаемый вывод:
+{'task_id': '101', 'description': 'Fix login bug', 'status': None}
+------------------------------
+

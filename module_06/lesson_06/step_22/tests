@@ -1,0 +1,146 @@
+Тест 1:
+Входные данные:
+4
+abc
+abcd
+abc
+acab
+
+Ожидаемый вывод:
+OK
+OK
+abc1
+OK
+------------------------------
+
+Тест 2:
+Входные данные:
+3
+b
+b
+b
+
+Ожидаемый вывод:
+OK
+b1
+b2
+------------------------------
+
+Тест 3:
+Входные данные:
+3
+vhn
+vhn
+h
+
+Ожидаемый вывод:
+OK
+vhn1
+OK
+------------------------------
+
+Тест 4:
+Входные данные:
+4
+d
+hd
+d
+h
+
+Ожидаемый вывод:
+OK
+OK
+d1
+OK
+------------------------------
+
+Тест 5:
+Входные данные:
+10
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+bhnqaptmp
+
+Ожидаемый вывод:
+OK
+bhnqaptmp1
+bhnqaptmp2
+bhnqaptmp3
+bhnqaptmp4
+bhnqaptmp5
+bhnqaptmp6
+bhnqaptmp7
+bhnqaptmp8
+bhnqaptmp9
+------------------------------
+
+Тест 6:
+Входные данные:
+10
+fpqhfouqdldravpjttarh
+fpqhfouqdldravpjttarh
+fpqhfouqdldravpjttarh
+fpqhfouqdldravpjttarh
+fpqhfouqdldravpjttarh
+fpqhfouqdldravpjttarh
+jmvlplnrmba
+fpqhfouqdldravpjttarh
+jmvlplnrmba
+fpqhfouqdldravpjttarh
+
+Ожидаемый вывод:
+OK
+fpqhfouqdldravpjttarh1
+fpqhfouqdldravpjttarh2
+fpqhfouqdldravpjttarh3
+fpqhfouqdldravpjttarh4
+fpqhfouqdldravpjttarh5
+OK
+fpqhfouqdldravpjttarh6
+jmvlplnrmba1
+fpqhfouqdldravpjttarh7
+------------------------------
+
+Тест 7:
+Входные данные:
+10
+iwexcrupuubwzbooj
+iwexcrupuubwzbooj
+jzsyjnxttliyfpunxyhsouhunenzxedi
+jzsyjnxttliyfpunxyhsouhunenzxedi
+jzsyjnxttliyfpunxyhsouhunenzxedi
+jzsyjnxttliyfpunxyhsouhunenzxedi
+jzsyjnxttliyfpunxyhsouhunenzxedi
+iwexcrupuubwzbooj
+iwexcrupuubwzbooj
+iwexcrupuubwzbooj
+
+Ожидаемый вывод:
+OK
+iwexcrupuubwzbooj1
+OK
+jzsyjnxttliyfpunxyhsouhunenzxedi1
+jzsyjnxttliyfpunxyhsouhunenzxedi2
+jzsyjnxttliyfpunxyhsouhunenzxedi3
+jzsyjnxttliyfpunxyhsouhunenzxedi4
+iwexcrupuubwzbooj2
+iwexcrupuubwzbooj3
+iwexcrupuubwzbooj4
+------------------------------
+
+Тест 8:
+Входные данные:
+1
+n
+
+Ожидаемый вывод:
+OK
+------------------------------
+

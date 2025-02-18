@@ -1,0 +1,32 @@
+Тест 1:
+Входные данные:
+Birmingham
+
+Ожидаемый вывод:
+INFO: Birmingham is a city in England
+------------------------------
+
+Тест 2:
+Входные данные:
+Moscow
+
+Ожидаемый вывод:
+ERROR: Country for Moscow not found
+------------------------------
+
+Тест 3:
+Входные данные:
+Bergen
+
+Ожидаемый вывод:
+INFO: Bergen is a city in Norway
+------------------------------
+
+Тест 4:
+Входные данные:
+bergen
+
+Ожидаемый вывод:
+ERROR: Country for bergen not found
+------------------------------
+
