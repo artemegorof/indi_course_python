@@ -1,0 +1,10 @@
+Тест 1:
+Входные данные:
+
+
+
+Ожидаемый вывод:
+('id', 'uid', 'account_number', 'iban', 'bank_name', 'routing_number', 'swift_bic')
+
+------------------------------
+
