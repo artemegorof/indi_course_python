@@ -31,7 +31,7 @@ account = {
 Тест 3:
 Входные данные:
 account = {
-    1: "admin",
+    11: "admin",
     2: "moderator",
     3: "user",
     True: "active",
@@ -39,7 +39,7 @@ account = {
 }
 
 Ожидаемый вывод:
-(1, 2, 3, True, False)
+(11, 2, 3, True, False)
 ------------------------------
 
 Тест 4:
