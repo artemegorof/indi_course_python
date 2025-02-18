@@ -1,0 +1,77 @@
+Тест 1:
+Входные данные:
+print(format_name_list([             
+    {'name': 'Marge'},               
+    {'name': 'Maggie'},              
+    {'name': 'Seymour'},             
+]))
+
+Ожидаемый вывод:
+Marge, Maggie и Seymour
+------------------------------
+
+Тест 2:
+Входные данные:
+print(format_name_list([{'name': 'Maude'}, {'name': 'Bart'}]))
+
+Ожидаемый вывод:
+Maude и Bart
+------------------------------
+
+Тест 3:
+Входные данные:
+print(format_name_list([     
+    {'name': 'Bart'},        
+    {'name': 'Lisa'},        
+    {'name': 'Maggie'}       
+]))                          
+
+Ожидаемый вывод:
+Bart, Lisa и Maggie
+------------------------------
+
+Тест 4:
+Входные данные:
+print(format_name_list([{'name': 'Bart'}, {'name': 'Lisa'}]))
+
+Ожидаемый вывод:
+Bart и Lisa
+------------------------------
+
+Тест 5:
+Входные данные:
+print(format_name_list([{'name': 'Bart'}]))
+
+Ожидаемый вывод:
+Bart
+------------------------------
+
+Тест 6:
+Входные данные:
+print(format_name_list([        
+    {'name': 'Maggie'},         
+    {'name': 'Lisa'},           
+    {'name': 'Barney'},         
+    {'name': 'Homer'},          
+    {'name': 'Bart'},           
+    {'name': 'Moe'}             
+]))                             
+
+Ожидаемый вывод:
+Maggie, Lisa, Barney, Homer, Bart и Moe
+------------------------------
+
+Тест 7:
+Входные данные:
+print(format_name_list([       
+    {'name': 'Bart'},          
+    {'name': 'Lisa'},          
+    {'name': 'Maggie'},        
+    {'name': 'Homer'},         
+    {'name': 'Marge'},         
+]))                            
+
+Ожидаемый вывод:
+Bart, Lisa, Maggie, Homer и Marge
+------------------------------
+

@@ -1,0 +1,72 @@
+Тест 1:
+Входные данные:
+print(get_domain_name("http://google.com"))
+
+Ожидаемый вывод:
+google
+------------------------------
+
+Тест 2:
+Входные данные:
+print(get_domain_name("http://google.co.jp"))
+
+Ожидаемый вывод:
+google
+------------------------------
+
+Тест 3:
+Входные данные:
+print(get_domain_name("www.xakep.ru"))
+
+Ожидаемый вывод:
+xakep
+------------------------------
+
+Тест 4:
+Входные данные:
+print(get_domain_name("https://youtube.com"))
+
+Ожидаемый вывод:
+youtube
+------------------------------
+
+Тест 5:
+Входные данные:
+print(get_domain_name("http://github.com/carbonfive/raygun"))
+
+Ожидаемый вывод:
+github
+------------------------------
+
+Тест 6:
+Входные данные:
+print(get_domain_name("http://www.zombie-bites.com"))
+
+Ожидаемый вывод:
+zombie-bites
+------------------------------
+
+Тест 7:
+Входные данные:
+print(get_domain_name("https://www.siemens.com"))
+
+Ожидаемый вывод:
+siemens
+------------------------------
+
+Тест 8:
+Входные данные:
+print(get_domain_name("https://www.whatsapp.com"))
+
+Ожидаемый вывод:
+whatsapp
+------------------------------
+
+Тест 9:
+Входные данные:
+print(get_domain_name("https://www.mywww.com"))
+
+Ожидаемый вывод:
+mywww
+------------------------------
+
