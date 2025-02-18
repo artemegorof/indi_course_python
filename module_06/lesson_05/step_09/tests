@@ -1,6 +1,28 @@
 Тест 1:
 Входные данные:
+address = {
+    "zip_code": "123456",
+    "longitude": 45.6789,
+    "post_code": "654321",
+    "street_name": "Main Street",
+    "number_house": 10
+}
 
+Ожидаемый вывод:
+True
+True
+True
+True
+True
+------------------------------
+
+Тест 2:
+Входные данные:
+address = {
+    "zip_code": "789012",
+    "longitude": 50.1234,
+    "street_name": "Broadway"
+}
 
 Ожидаемый вывод:
 True
@@ -8,6 +30,84 @@ True
 False
 True
 False
+------------------------------
 
+Тест 3:
+Входные данные:
+address = {
+    "longitude": 40.7128
+}
+
+Ожидаемый вывод:
+False
+True
+False
+False
+False
+------------------------------
+
+Тест 4:
+Входные данные:
+address = {
+  "id": 7973,
+  "uid": "42f2ce1d-90ab-4345-9595-0d9f42e6c085",
+  "city": "East Monteland",
+  "street_name": "Gusikowski Land",
+  "street_address": "3230 Daugherty Centers",
+  "secondary_address": "Apt. 562",
+  "building_number": "58671",
+  "mail_box": "PO Box 5313",
+  "community": "Paradise Square",
+  "zip_code": "58611",
+  "zip": "01667",
+  "postcode": "00563",
+  "time_zone": "America/New_York",
+  "street_suffix": "Burg",
+  "city_suffix": "mouth",
+  "city_prefix": "West",
+  "state": "Wisconsin",
+  "state_abbr": "NY",
+  "country": "Mali",
+  "country_code": "MH",
+  "latitude": -56.97457993706476,
+  "longitude": -104.29509072140858,
+  "full_address": "Apt. 982 4820 Leena Rest, Lake Giannaville, MN 09265-3715"
+}
+
+Ожидаемый вывод:
+True
+True
+False
+True
+False
+------------------------------
+
+Тест 5:
+Входные данные:
+address = {}
+
+Ожидаемый вывод:
+False
+False
+False
+False
+False
+------------------------------
+
+Тест 6:
+Входные данные:
+address = {
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "latitude": 40.7128
+}
+
+Ожидаемый вывод:
+False
+False
+False
+False
+False
 ------------------------------
 

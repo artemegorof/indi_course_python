@@ -1,10 +1,52 @@
 Тест 1:
 Входные данные:
-
-
+account = {
+  "id": 3136,
+  "uid": "1359acc6-f07a-4a2a-984e-3fb809982948",
+  "account_number": "0847799459",
+  "iban": "GB90XTND56373623909314",
+  "bank_name": "ABN AMRO HOARE GOVETT CORPORATE FINANCE LTD.",
+  "routing_number": "126602476",
+  "swift_bic": "BCYPGB2LHGB"
+}
 
 Ожидаемый вывод:
 ('id', 'uid', 'account_number', 'iban', 'bank_name', 'routing_number', 'swift_bic')
 
+------------------------------
+
+Тест 2:
+Входные данные:
+account = {
+    "username": "john_doe",
+    "email": "john@example.com",
+    "balance": 1500.75,
+    "status": "active"
+}
+
+Ожидаемый вывод:
+('username', 'email', 'balance', 'status')
+------------------------------
+
+Тест 3:
+Входные данные:
+account = {
+    1: "admin",
+    2: "moderator",
+    3: "user",
+    True: "active",
+    False: "inactive"
+}
+
+Ожидаемый вывод:
+(1, 2, 3, True, False)
+------------------------------
+
+Тест 4:
+Входные данные:
+account = {}
+
+Ожидаемый вывод:
+()
 ------------------------------
 

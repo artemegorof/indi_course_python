@@ -1,8 +1,51 @@
 Тест 1:
 Входные данные:
+d1 = {'India': 'Delhi',
+      'Canada': 'Ottawa',
+      'United States': 'Washington D. C.'}
 
+d2 = {'France': 'Paris',
+      'Malaysia': 'Kuala Lumpur'}
 
 Ожидаемый вывод:
 {'India': 'Delhi', 'Canada': 'Ottawa', 'United States': 'Washington D. C.', 'France': 'Paris', 'Malaysia': 'Kuala Lumpur'}
+
+------------------------------
+
+Тест 2:
+Входные данные:
+d1 = {"Brazil": "Brasilia", "Argentina": "Buenos Aires", "Peru": "Lima"}     
+d2 = {"Argentina": "Córdoba", "Chile": "Santiago", "Peru": "Cusco"}   
+
+Ожидаемый вывод:
+{'Brazil': 'Brasilia', 'Argentina': 'Buenos Aires', 'Peru': 'Lima', 'Chile': 'Santiago'}
+------------------------------
+
+Тест 3:
+Входные данные:
+d1 = {"France": "Paris", "Germany": "Berlin"}
+d2 = {"Italy": "Rome", "Spain": "Madrid"} 
+
+Ожидаемый вывод:
+{'France': 'Paris', 'Germany': 'Berlin', 'Italy': 'Rome', 'Spain': 'Madrid'}
+
+------------------------------
+
+Тест 4:
+Входные данные:
+d1 = {"Russia": "Moscow", "Japan": "Tokyo"}
+d2 = {}
+
+Ожидаемый вывод:
+{'Russia': 'Moscow', 'Japan': 'Tokyo'}
+------------------------------
+
+Тест 5:
+Входные данные:
+d1 = {None: "Unknown", "Germany": "Berlin"}
+d2 = {"France": "Paris", None: "None Value"}
+
+Ожидаемый вывод:
+{None: 'Unknown', 'Germany': 'Berlin', 'France': 'Paris'}
 ------------------------------
 
