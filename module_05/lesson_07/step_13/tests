@@ -1,0 +1,37 @@
+Тест 1:
+Входные данные:
+booked = ["Р.1, М.2", "Р.2, М.5", "Р.3, М.1", "Р.4, М.7", "Р.5, М.10"]
+
+Ожидаемый вывод:
+O X O O O O O O O O  
+O O O O X O O O O O  
+X O O O O O O O O O  
+O O O O O O X O O O  
+O O O O O O O O O X  
+
+------------------------------
+
+Тест 2:
+Входные данные:
+booked = ["Р.1, М.1", "Р.1, М.2", "Р.1, М.3", "Р.2, М.1", "Р.5, М.10"]
+
+Ожидаемый вывод:
+X X X O O O O O O O  
+X O O O O O O O O O  
+O O O O O O O O O O  
+O O O O O O O O O O  
+O O O O O O O O O X  
+------------------------------
+
+Тест 3:
+Входные данные:
+booked = []
+
+Ожидаемый вывод:
+O O O O O O O O O O  
+O O O O O O O O O O  
+O O O O O O O O O O  
+O O O O O O O O O O  
+O O O O O O O O O O
+------------------------------
+
