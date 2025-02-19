@@ -1,0 +1,42 @@
+Тест 1:
+Входные данные:
+last_name gender
+
+
+Ожидаемый вывод:
+{'last_name': 'Wehner', 'gender': 'Non-binary'}
+
+------------------------------
+
+Тест 2:
+Входные данные:
+password phone_number social_insurance_number
+
+Ожидаемый вывод:
+{'password': 'SyUpfo1ljm', 'phone_number': '+674 424.561.2776', 'social_insurance_number': '637316241'}
+------------------------------
+
+Тест 3:
+Входные данные:
+subscription uid date_of_birth first_name
+
+Ожидаемый вывод:
+{'subscription': {'plan': 'Essential', 'status': 'Idle', 'payment_method': 'Debit card', 'term': 'Annual'}, 'uid': '5e941db5-9e0f-4f94-9fc5-734110c6be14', 'date_of_birth': '1993-08-17', 'first_name': 'Teresa'}    
+------------------------------
+
+Тест 4:
+Входные данные:
+employment
+
+Ожидаемый вывод:
+{'employment': {'title': 'Central Hospitality Liaison', 'key_skill': 'Organisation'}}
+------------------------------
+
+Тест 5:
+Входные данные:
+employment uid date_of_birth first_name date_of_birth password last_name id
+
+Ожидаемый вывод:
+{'employment': {'title': 'Central Hospitality Liaison', 'key_skill': 'Organisation'}, 'uid': '5e941db5-9e0f-4f94-9fc5-734110c6be14', 'date_of_birth': '1993-08-17', 'first_name': 'Teresa', 'password': 'SyUpfo1ljm', 'last_name': 'Wehner', 'id': 4170}
+------------------------------
+
