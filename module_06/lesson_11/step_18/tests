@@ -1,0 +1,56 @@
+Тест 1:
+Входные данные:
+toosmallword
+
+Ожидаемый вывод:
+NO
+------------------------------
+
+Тест 2:
+Входные данные:
+TheQuickBrownFoxJumpsOverTheLazyDog
+
+Ожидаемый вывод:
+YES
+------------------------------
+
+Тест 3:
+Входные данные:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Ожидаемый вывод:
+YES
+------------------------------
+
+Тест 4:
+Входные данные:
+thereisasyetinsufficientdataforameaningfulanswer
+
+Ожидаемый вывод:
+NO
+------------------------------
+
+Тест 5:
+Входные данные:
+ToBeOrNotToBeThatIsTheQuestion
+
+Ожидаемый вывод:
+NO
+------------------------------
+
+Тест 6:
+Входные данные:
+THEFIVEBOXINGWIZaRDSJUMPQUICKLY
+
+Ожидаемый вывод:
+YES
+------------------------------
+
+Тест 7:
+Входные данные:
+MGJYIZDKsbhpVeNFlquRTcWoAx
+
+Ожидаемый вывод:
+YES
+------------------------------
+
